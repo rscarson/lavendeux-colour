@@ -12,7 +12,7 @@ Includes a colour decorator (@color / @colour) which formats an integer as an ht
 ```
 
 Included functions are:
-```javascript
+```
 complement(html_color_code: integer): Returns the complementary colour code for the given colour
     complement(0xFF0000) @colour = #ff00ff
 
