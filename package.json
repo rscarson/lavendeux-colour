@@ -2,7 +2,7 @@
   "name": "lavendeux-colour",
   "extensionName": "HTML Colour Utilities",
   "version": "1.0.0",
-  "author": "rscarson",
+  "author": "@rscarson",
   "license": "MIT",
   "description": "A Lavendeux extension for manipulating HTML colour codes",
   "main": "index.js",
